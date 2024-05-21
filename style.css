@@ -1,0 +1,164 @@
+
+ body {
+    
+    height:1000px ;
+    width: 200px;
+    background-image: url('https://img.freepik.com/free-vector/sketchy-training-blackboard-style_23-2147533942.jpg?w=740&t=st=1716283211~exp=1716283811~hmac=23bf8686d62f35fc7fc5619c62a6acd08f1b5465e7b63f223f5b7a253bd912d0');
+    background-size: cover
+ }
+
+
+  #title {
+    font-size:30px;text-align:center;
+     line-height:1.5em;
+      padding-bottom:45px;
+       font-family:"Playfair Display", serif;
+        text-transform:uppercase;letter-spacing: 2px; 
+        color:#e9c6c6;
+        font-size: 100px;
+
+}
+#categories{
+  display: flex;
+  gap: 10px;
+}
+
+p{
+  color: #b38383;
+  font-size: 50px;
+}
+
+
+   .product {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 200px;
+    display: inline-block;
+}
+ h1 {
+  text-align : center;
+    font-size: 18px;
+    margin-top: 0;
+} 
+
+.product-image {
+    width: 100%;
+    height: auto;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+.product.category {
+    font-style: italic;
+    color: #888;
+    margin-top: 30px
+}
+
+/* p {
+    font-weight: bold;
+    color: #888;
+    margin-top: 30px
+} */
+
+
+
+.delete-button{
+  background-color:  #6e5ab6; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+
+
+
+#isolate{
+  background-color:#5a5c75; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+#mass{
+  background-color:#5a5c75; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#whey{
+  background-color:#5a5c75; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+#gainer{
+  background-color:#5a5c75; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#creatine{
+  background-color:#5a5c75; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+#sort{
+  background-color:#abacc5; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+img{
+  height: 400px;
+}
+
+
+
+
+h3{
+  color: #5c89b3;
+  font-size: 60px;
+  margin-top: 0;
+
+  
+}
